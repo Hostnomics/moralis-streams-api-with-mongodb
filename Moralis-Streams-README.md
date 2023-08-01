@@ -24,5 +24,10 @@
     - `npm i express cors dotenv mongoose`
 
 
+4. Utils folder [(4:28)](https://youtu.be/AeBKBt0V2zE?t=268)
+    - Create two helper functions: 
+        - `ConnectToDb.js`
+        - `TransferSchema.js`
+
 
 
