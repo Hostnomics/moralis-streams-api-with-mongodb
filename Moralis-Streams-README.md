@@ -29,5 +29,7 @@
         - `ConnectToDb.js`
         - `TransferSchema.js`
 
-
+5. Build out /index.js [(7:44)](https://youtu.be/AeBKBt0V2zE?t=464)
+    - See [Moralis Streams Response Body Documentation](https://docs.moralis.io/streams-api/evm/response-body).
+    - 
 
